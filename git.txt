@@ -1,0 +1,5 @@
+how to set initial branch name
+git config --global init.defaultBranch <name> 
+
+how to rename initial branch name
+git branch -m <name>

@@ -23,7 +23,7 @@ img {
 }
 @media (min-width: 896px) {
   .box {
-    width: 33.33%;
+    width: 25%;
   }
 }
 .box-item {
@@ -60,4 +60,13 @@ img {
   color: #696969;
   padding: 0.5rem;
   text-transform: lowercase;
+}
+.card-bottom {
+  display: flex;
+  justify-content: space-between;
+  color: #696969;
+  cursor: pointer;
+}
+.fa-heart-o {
+  margin-right: 0.5rem;
 }
